@@ -2,7 +2,7 @@
 The marketing committee is here to help spread the message of openness in the .NET ecosystem. We support community and project initiatves, drive  awarness and increase membership. We create consistent, powerful storytelling to increase share of conversation and establish industry relevance for the .NET Foundation.   
 
 ## How to Join & how we meet
-We'd love to have you join the marketing committee! Post a message in the [members team](https://github.com/orgs/dotnet-foundation/teams/members) and mention @BethMassi if you are interested. We meet virtually twice a month on Thursdays at 9AM PT. 
+We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested and we'll get you added to the team. We meet virtually twice a month on Thursdays at 9AM PT. 
 
 ## Main Goals of Marketing
 - Increase membership
