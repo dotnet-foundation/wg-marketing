@@ -15,10 +15,9 @@ Occurs every 2 week(s) on Thursday effective 2/6/2020 from 9:00 AM to 10:00 AM P
 - Generate awareness (of .NET open source and the .NET Foundation)
 - Develop an open community
 
-
+## Marketing Activities 
 In order to achieve these goals we typically engage in the following marketing activities. Any member can submit to the [newsletter](https://github.com/dotnet-foundation/newsletter), or [request content for social amplification](https://github.com/dotnet-foundation/content). Please join the marketing committee and help us with: 
 
-## Marketing Activities 
 - [Positioning and Messaging](https://dotnetfoundation.sharepoint.com/sites/Marketing/_layouts/15/WopiFrame.aspx?sourcedoc={f21f2c88-9fdf-4707-bac9-ca43d81f5f11}&action=edit&wd=target%28Marketing.one%7C9b89fc02-3076-476d-8b2b-ec1dbf5baffb%2FPositioning%20%20Messaging%7C50fb40de-99c6-41cd-94f8-2b62ccd1f5ed%2F%29&wdorigin=703)
 - [Branding](https://dotnetfoundation.sharepoint.com/sites/Marketing/_layouts/15/WopiFrame.aspx?sourcedoc={f21f2c88-9fdf-4707-bac9-ca43d81f5f11}&action=edit&wd=target%28Branding.one%7Cce1c199c-1e16-477d-bcea-65855a11e3d0%2F%29&wdorigin=717)
 - [Communications - Newsletters, Social, YouTube, Blog, etc.](https://dotnetfoundation.sharepoint.com/sites/Marketing/_layouts/15/WopiFrame.aspx?sourcedoc={f21f2c88-9fdf-4707-bac9-ca43d81f5f11}&action=edit&wd=target%28Communications.one%7Cfe1081b6-5aa2-4428-87e9-d5997417636a%2F%29&wdorigin=717) 
