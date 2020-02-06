@@ -13,10 +13,12 @@ Occurs every 2 week(s) on Thursday effective 2/6/2020 from 9:00 AM to 10:00 AM P
 ## Main Goals of Marketing
 - Increase membership
 - Generate awareness (of .NET open source and the .NET Foundation)
-- Develop an open community
+- Foster an open community
+
+Read more about the [goals we have for 2020](goals.md). 
 
 ## Marketing Activities 
-In order to achieve these goals we typically engage in the following marketing activities. Any member can submit to the [newsletter](https://github.com/dotnet-foundation/newsletter), or [request content for social amplification](https://github.com/dotnet-foundation/content). Please join the marketing committee and help us with: 
+In order to achieve our goals we typically engage in the following marketing activities. Any member can submit to the [newsletter](https://github.com/dotnet-foundation/newsletter), or [request content for social amplification](https://github.com/dotnet-foundation/content). Please join the marketing committee and help us with: 
 
 - [Positioning and Messaging](https://dotnetfoundation.sharepoint.com/sites/Marketing/_layouts/15/WopiFrame.aspx?sourcedoc={f21f2c88-9fdf-4707-bac9-ca43d81f5f11}&action=edit&wd=target%28Marketing.one%7C9b89fc02-3076-476d-8b2b-ec1dbf5baffb%2FPositioning%20%20Messaging%7C50fb40de-99c6-41cd-94f8-2b62ccd1f5ed%2F%29&wdorigin=703)
 - [Branding](https://dotnetfoundation.sharepoint.com/sites/Marketing/_layouts/15/WopiFrame.aspx?sourcedoc={f21f2c88-9fdf-4707-bac9-ca43d81f5f11}&action=edit&wd=target%28Branding.one%7Cce1c199c-1e16-477d-bcea-65855a11e3d0%2F%29&wdorigin=717)
@@ -27,6 +29,10 @@ In order to achieve these goals we typically engage in the following marketing a
 - [PR / AR](https://dotnetfoundation.sharepoint.com/sites/Marketing/_layouts/15/WopiFrame.aspx?sourcedoc={f21f2c88-9fdf-4707-bac9-ca43d81f5f11}&action=edit&wd=target%28Marketing.one%7C9b89fc02-3076-476d-8b2b-ec1dbf5baffb%2FStorytelling%20%5C%2F%20PR%7C4e7a535a-d26f-4516-8989-1644e56b5526%2F%29&wdorigin=703)
 - [SWAG](https://stores.kotisdesign.com/dotnetfoundation/)
 - Advertising
+
+## Marketing Proposals
+Members can secure funds from the .NET Foundation Marketing Committee to perform marketing activities and drive initiatives that align to our goals and priorities. See [Proposals](proposals.md) for more information. 
+
 
 ## Assets 
 Many marketing assets are binary in nature (slides, spreadsheets, graphics & branding, trademark docs, etc.) and some are not meant to be publicized broadly. For these, marketing committee members have access to https://dotnetfoundation.sharepoint.com/sites/Marketing.
