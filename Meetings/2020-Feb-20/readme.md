@@ -6,6 +6,12 @@
 
 ### Notes
 - Discussed Access Groups and Information Architecture for the group. Beth will straighten out files and access groups. Any member of the org can participate in any team public discussion so we can still have good connection with our members [see GitHub teams help](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-teams#team-visibility). This is more for having only the *active* committee members and chair in a group that has maintainer access to the marketing related repos. 
+  - [GitHub marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) is the marketing committee
+  - GitHub markerting team is the maintainer and watcher of the marketing realted repos (wg-marketing, events, content, newsletter)
+  - GitHub is where we have all our PUBLIC text-based content
+  - Microsoft Teams -- All Members Discussion group is all the members and is used to schedule Teams meetings by ED and BoD only
+  - Microsoft Teams -- Marketing group is only comittee members
+  - Microsoft Teams is used to store privare (committe members only) as well as any binary files (presentations, videos, etc.)
 - Beth gave a short lesson on editing markdown via GitHub web UI
 - We need to finish up the [Marketing Proposals process](https://github.com/dotnet-foundation/wg-marketing/blob/master/proposals.md) and start some templates. Templates should include Goals and Success Criteria. Beth invited our corporate sponsors to help here
 - Sara Faatz is finishing up the [Events](https://github.com/dotnet-foundation/events) readme and sponsorship request issue templates. Beth will add "event in a box" type of content for best practices on running online events and representing .NET Foundation. 
