@@ -10,7 +10,8 @@
 * Update on the [Marketing Proposals process](https://github.com/dotnet-foundation/wg-marketing/blob/master/proposals.md) and solicited help on starting some templates. Templates should include Goals and Success Criteria. HELP WANTED
 * Sara Faatz is finishing up the [Events](https://github.com/dotnet-foundation/events) readme and sponsorship request issue templates. Benjamin Howarth volunteered to help here. 
 * Beth will add "event in a box" type of content for best practices on running online events and representing .NET Foundation. 
-* Discussed how to accept new committee member nominations and activate our members with "jobs". HELP WANTED:
+* Discussed how to accept new committee member nominations and activate our members with "jobs". If you want to take on a job and become a member of the committee, nominate yourself in the [marketing team discussion](https://github.com/orgs/dotnet-foundation/teams/marketing).
+* Jobs - HELP WANTED:
   + Input on proposal process (PRs requested)
   + Manage the monthly newsletter (watch repo, solicit content)
   + Review content amplification submissions
