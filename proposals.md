@@ -11,6 +11,7 @@ Proposals should align to our goals and priorities. See [Goals](goals.md).
 ## Submitting a proposal
 TODO:
 - Create an Issue in this repo with the following template...
+- This is a second bullet
 
 ## Review process
 The Marketing Committee will review proposals on a first-come-first-served basis and discuss them every other Thursday at our regularly scheduled committee meeting. Check the [marketing team discussion](https://github.com/orgs/dotnet-foundation/teams/marketing) for agendas and video conference details. 
