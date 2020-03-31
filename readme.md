@@ -2,21 +2,15 @@
 The marketing committee is here to help spread the message of openness in the .NET ecosystem. We support community and project initiatives, drive  awareness and increase membership. We create consistent, powerful storytelling to increase share of conversation and establish industry relevance for the .NET Foundation.   
 
 ## How to Join & how we meet
-We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested in committing your time to the group and we'll get you added to the team. We meet virtually twice a month on Thursdays at 9AM PT, one meeting is for all our members and one is for committee members only. 
+We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested in committing your time to the group and we'll get you added to the team. 
 
 **.NET Foundation Marketing meetings**
 
-- All members meeting:
-
-Occurs every first Thursday of the month from 9:00 AM to 10:00 AM PT
-
-**[Join Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3a66e721e571fd4b26852df8760c0c6f88%40thread.skype/1580760597733?context=%7b%22Tid%22%3a%2216076fdc-fcc1-4a15-b1ca-32c9a255900e%22%2c%22Oid%22%3a%22fca62963-144b-49b8-8403-c8590d9d3c7c%22%7d)** 
-
-- Marketing committee meeting:
-
 Occurs every third Thursday of the month from 9:00 AM to 10:00 AM PT
 
-** If you would like to join the marketing committe / action group and contribute your time to this please Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing).
+Browse the [meeting archive](https://github.com/dotnet-foundation/wg-marketing/tree/master/Meetings).
+
+*If you would like to join the marketing committee and contribute your time to this please nominate yourself in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing). We'd love to have you!*
 
 ## Main Goals of Marketing
 - Increase membership
