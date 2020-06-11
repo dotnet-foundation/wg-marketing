@@ -1,6 +1,8 @@
 # Welcome to the Marketing Committee
 The marketing committee is here to help spread the message of openness in the .NET ecosystem. We support community and project initiatives, drive  awareness and increase membership. We create consistent, powerful storytelling to increase share of conversation and establish industry relevance for the .NET Foundation.   
 
+View the [.NET Foundation slide deck](https://dotnetfoundation.sharepoint.com/:p:/s/Marketing/EbxGONyybLRMoe6MgPNUEi4BdDuEWNLmdfV_s8INO9nWTw?e=mImEov) and use it to help us spread the word!
+
 ## How to Join & how we meet
 We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested in committing your time to the group and we'll get you added to the team. 
 
