@@ -3,7 +3,7 @@ The marketing committee is here to help spread the message of openness in the .N
 
 View the [.NET Foundation slide deck](https://dotnetfoundation.sharepoint.com/:p:/s/Marketing/EbxGONyybLRMoe6MgPNUEi4BdDuEWNLmdfV_s8INO9nWTw?e=mImEov) and use it to help us spread the word!
 
-Do you have a piece of content or news you'd like us to promote? Any member can submit to the [monthly newsletter](https://github.com/dotnet-foundation/newsletter), or [request content for social amplification](https://github.com/dotnet-foundation/content) via our Twitter and Facebook social channels. 
+Do you have a piece of content or news you'd like us to promote? Any member can submit to the [monthly newsletter & blog](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md), or [request content for social amplification](https://github.com/dotnet-foundation/content) via our Twitter and Facebook social channels. 
 
 ## How to Join & how we meet
 We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested in committing your time to the group and we'll get you added to the team. 
