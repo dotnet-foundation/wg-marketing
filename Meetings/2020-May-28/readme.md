@@ -12,7 +12,7 @@
 
 ### Help Wanted
 *  [Marketing Proposals process](https://github.com/dotnet-foundation/wg-marketing/issues/3) Templates should include Goals and Success Criteria.
-*  [Events](https://github.com/dotnet-foundation/events) readme and sponsorship request issue templates. 
+*  [Events](https://github.com/dotnet-foundation/events/issues/4) readme and sponsorship request issue templates. 
 * "Event in a box" type of content for best practices on running online events and representing .NET Foundation. 
 
 ### Nomination to Committee
