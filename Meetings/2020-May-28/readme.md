@@ -11,7 +11,7 @@
 * Upcoming election proposal is being made to the board. Shared proposal and discussed messaging & promotion plan. **Beth will start messaging on website when ready. Jon+Beth to execute promotion same as last year: Blog post, Social, Member Newsletter & Project Lead Slack.**
 
 ### Help Wanted
-*  [Marketing Proposals process](https://github.com/dotnet-foundation/wg-marketing/blob/master/proposals.md) Templates should include Goals and Success Criteria.
+*  [Marketing Proposals process](https://github.com/dotnet-foundation/wg-marketing/issues/3) Templates should include Goals and Success Criteria.
 *  [Events](https://github.com/dotnet-foundation/events) readme and sponsorship request issue templates. 
 * "Event in a box" type of content for best practices on running online events and representing .NET Foundation. 
 
