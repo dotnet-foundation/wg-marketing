@@ -18,18 +18,18 @@
 
 ### Next Steps
 
-* Isaac/Claire: start sourcing a UX designer for website​
-* Sara: Send committee co-marketing plan for Wintellect offer​ (done)
-* Beth: Create sponsorbenefits.md in wg-marketing repo for public comment​
-* Beth: Start (re)branding work for .NET Foundation​
-* Beth: Explore more benefits for members​ (CODE Magazine​, VSS)
+* Isaac/Claire: start sourcing a UX designer for website
+* Sara: Send committee co-marketing plan for Wintellect offer (done)
+* Beth: Create sponsorbenefits.md in wg-marketing repo for public comment
+* Beth: Start (re)branding work for .NET Foundation
+* Beth: Explore more benefits for members (CODE Magazine, VSS)
 * Beth: Revisit goals.md and get input from committee on where to focus this coming year
 
 ### Help Wanted
 Some areas we still need help with:
 *  [Marketing Proposals process](https://github.com/dotnet-foundation/wg-marketing/issues/3) Templates should include Goals and Success Criteria.
 *  [Events](https://github.com/dotnet-foundation/events/issues/4) readme and sponsorship request issue templates. 
-* "Event in a box" type of content for best practices on running online events and representing .NET Foundation. 
+
 
 ### Nomination to Committee
 * If someone want to take on a job above and become a member of the committee, nominate yourself in the [marketing team discussion](https://github.com/orgs/dotnet-foundation/teams/marketing).
