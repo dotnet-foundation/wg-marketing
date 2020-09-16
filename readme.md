@@ -6,20 +6,20 @@ View the [.NET Foundation slide deck](https://dotnetfoundation.sharepoint.com/:p
 Do you have a piece of content or news you'd like us to promote? Any member can submit to the [monthly newsletter & blog](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md), or [request content for social amplification](https://github.com/dotnet-foundation/content) via our Twitter and Facebook social channels. 
 
 ## How to Join & how we meet
-We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested in committing your time to the group and we'll get you added to the team. 
+We'd love to have you join the marketing committee! Post a message in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing) if you are interested in committing your time to the group, let us know what you're interested in helping with and we'll get you assigned to a task. 
 
 **.NET Foundation Marketing meetings**
 
 Occurs every first Thursday of the month from 9:00 AM to 10:00 AM PT
 
-Browse the [meeting archive](https://github.com/dotnet-foundation/wg-marketing/tree/master/Meetings).
+Browse the [meeting archive](https://github.com/dotnet-foundation/wg-marketing/tree/master/Meetings) and let us know if you can help with any of our initiatives. 
 
 *If you would like to join the marketing committee and contribute your time to this please nominate yourself in the [marketing team](https://github.com/orgs/dotnet-foundation/teams/marketing). We'd love to have you!*
 
 ## Main Goals of Marketing
 - Increase membership
 - Generate awareness (of .NET open source and the .NET Foundation)
-- Foster an open community
+- Foster an open, healthy .NET community
 
 Read more about the [goals we have for 2020](goals.md). 
 
