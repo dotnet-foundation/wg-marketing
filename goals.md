@@ -10,7 +10,7 @@ The committee has discussed the following activities we want to prioritize in FY
 - Clarify mission statement language and make it prominent on website
 - Drive awareness to our member projects and maintainers *(in progress)*
 - Provide benefits to our members like training, offers from sponsors, etc. *(in progress)*
-- Define and communicate corporate sponsor benefits    
+- Define and communicate corporate sponsor benefits as outlined by the corporate sponsorship committee    
 - Forecast FY21 budget
 - Define [marketing activity proposal process](proposals.md) for our members to secure funds and drive initiatives based on budget 
 - Drive membership through our partner members (co-marketing, PR, etc.) *(always on)*
