@@ -12,7 +12,7 @@ Depending on how much support and awareness you want to drive with your communit
 * Is your project a new project that is coming into the world for the first time? If so, you'll want to engage the marketing committee early so we can help you with trademark and internet searches so you name isn't already used in the same technology space or someone already has a trademark registered.
 
 **Do you need a logo/image for your project?**
-* This is most likely true if you answer yes to above. Although we don't currently have a designer on staff, we can help you by soliciting artistic volunteers. There are also free/low cost sites that can help:
+* This is most likely true if you answer yes to above. Although we don't currently have a designer on staff, we can help you by soliciting artistic volunteers. There are also free/low cost sites that can help (and we can help pay for if you need):
 - https://www.freelogodesign.org/
 - https://logomakr.com/
 - https://www.canva.com/tools/logo-maker-q1/ 
