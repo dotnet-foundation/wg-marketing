@@ -12,7 +12,11 @@ Depending on how much support and awareness you want to drive with your communit
 * Is your project a new project that is coming into the world for the first time? If so, you'll want to engage the marketing committee early so we can help you with trademark and internet searches so you name isn't already used in the same technology space or someone already has a trademark registered.
 
 **Do you need a logo/image for your project?**
-* This is most likely true if you answer yes to above. Although we don't currently have a designer on staff, we can help you by soliciting artistic volunteers. 
+* This is most likely true if you answer yes to above. Although we don't currently have a designer on staff, we can help you by soliciting artistic volunteers. There are also free/low cost sites that can help:
+- https://www.freelogodesign.org/
+- https://logomakr.com/
+- https://www.canva.com/tools/logo-maker-q1/ 
+- https://www.brandcrowd.com/maker
 
 **Do you need a website or is your project readme enough?**
 * Do you have the need for more than just the repository for content like value props, documentation, how to get involved, social handles, forums, community links, etc.? The answer might be "not right now" or you may opt to just have a GitHub.io page generated from your repository. If the answer is yes, can you register the domain you need or already own it? 
@@ -31,8 +35,8 @@ Once a date is locked, there are a set of activities we execute together.
 * **.NET Foundation website update**. This happens as part of the [project onboarding process](https://dotnetfoundation.org/projects/submit) where your project is listed in the /projects section of our website.  
 
 ## Post-launch / "Always on" marketing
-* **Project Spotlight**. The [Project Spotlight]() is a great way to introduce your project to the community. It's an interview that we put on our website and host on our  YouTube channel. If you are interested in doing this, please let us know. 
-* **YouTube / Virtual Meetups**. The outreach committee has a Virtual Events team that can help you deliver a virtual meetup on YouTube. More information is here. 
+* **Project Spotlight**. The [Project Spotlight](https://dotnetfoundation.org/projects/spotlight) is a great way to introduce your project to the community. It's an interview that we put on our website and host on our  YouTube channel. If you are interested in doing this, please let us know. 
+* **YouTube / Virtual Meetups**. The outreach committee has a Virtual Events team that can help you deliver a virtual meetup on YouTube. [More information is here](https://dotnetfoundation.org/community/meetups). 
 * **Social amplification**. If you have amplification or retweet requests, you can submit an [amplification request in the content repo](https://github.com/dotnet-foundation/content/issues/new?assignees=&labels=&template=content-amplification-request.md&title=%5BAMPLIFICATION%5D+-+Title). 
 * **Newsletter**. To add content for the Newsletter like new releases, please submit a PR to [this markdown page](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md).  
 
