@@ -35,7 +35,7 @@ Once a date is locked, there are a set of activities we execute together.
 * **.NET Foundation website update**. This happens as part of the [project onboarding process](https://dotnetfoundation.org/projects/submit) where your project is listed in the /projects section of our website.  
 
 ## Post-launch / "Always on" marketing
-* **Project Spotlight**. The [Project Spotlight](https://dotnetfoundation.org/projects/spotlight) is a great way to introduce your project to the community. It's an interview that we put on our website and host on our  YouTube channel. If you are interested in doing this, please let us know. 
+* **Project Spotlight**. The [Project Spotlight](https://dotnetfoundation.org/projects/spotlight) is a great way to introduce your project to the community. It's an interview that we put on our website and host on our  YouTube channel. If you are interested in doing this, please let us know by [filing a Project Spotlight request](https://github.com/dotnet-foundation/projects/issues/new/choose). 
 * **YouTube / Virtual Meetups**. The outreach committee has a Virtual Events team that can help you deliver a virtual meetup on YouTube. [More information is here](https://dotnetfoundation.org/community/meetups). 
 * **Social amplification**. If you have amplification or retweet requests, you can submit an [amplification request in the content repo](https://github.com/dotnet-foundation/content/issues/new?assignees=&labels=&template=content-amplification-request.md&title=%5BAMPLIFICATION%5D+-+Title). 
 * **Newsletter**. To add content for the Newsletter like new releases, please submit a PR to [this markdown page](https://github.com/dotnet-foundation/website/blob/master/input/blog/posts/_current-newsletter-draft.md).  
