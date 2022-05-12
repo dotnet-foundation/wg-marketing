@@ -10,7 +10,7 @@ We'd love to have you join the marketing committee! Post a message in the [marke
 
 **.NET Foundation Marketing meetings**
 
-Occurs every first Thursday of the month from 9:00 AM to 10:00 AM PT
+Occurs every first Thursday of the month from 9:30 AM to 10:30 AM PT
 
 Browse the [meeting archive](https://github.com/dotnet-foundation/wg-marketing/tree/master/Meetings) and let us know if you can help with any of our initiatives. 
 
